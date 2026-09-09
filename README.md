@@ -1,7 +1,8 @@
+NAMA: I MADE ANANTA WIJAYA
+NIM: 260530911102
+DIVISI: CYBERSECURITY
+
 # Tecfest2026_WeeklyPractice_00
-## Identitas
-Nama: I Made Ananta Wijaya \
-NIM: 260530911102 \
 Kategori CTF: Reverse Engineering dan Binary Exploitation \
 Tools yang berhasil diinstal: 
 - Git
